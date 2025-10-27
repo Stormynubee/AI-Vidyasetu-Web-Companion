@@ -1,6 +1,6 @@
 💻 Hackathon Task: “AI Vidyasetu Web Companion”
 🎯 Theme:
-Build a smart, interactive educational web app using HTML, CSS, and JavaScript.
+Build a web app using HTML, CSS, and JavaScript.
 
 🧩 Task Description:
 Create a frontend-only web application that uses AI concepts (through APIs or simulated logic) to assist students or teachers.
