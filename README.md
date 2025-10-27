@@ -36,8 +36,8 @@ Should clearly show how it benefits students or educators.
 🕐 Time:
 
 Starts immediately after the bootcamp
-⏳ Duration: 1 Hour
-💾 Submission: Within the hour (no extensions)
+⏳ Duration: 2hours
+💾 Submission: Within the 1pm (no extensions)
 
 🏆 Evaluation Criteria:
 Criteria	Weight
